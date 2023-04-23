@@ -49,3 +49,17 @@ var edad = 40;
 edad++;
 edad--;
 edad+= 2;
+
+console.log(edad);
+
+// EJERCICIO 
+/*En este desafío vas a recibir un parámetro secreto en la función solution. 
+Debes retornar true si el número secreto es mayor a 5 y false si es menor o igual.*/
+
+export function solution(secreto) {
+    if (secreto > 5) {
+      return true;
+    } else {
+      return false;
+    }
+  }
