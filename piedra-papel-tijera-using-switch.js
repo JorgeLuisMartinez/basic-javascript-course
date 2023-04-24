@@ -1,3 +1,4 @@
+//piedra papel o tijera con switch
 var piedra = "piedra";
 var papel = "papel";
 var tijera = "tijera";

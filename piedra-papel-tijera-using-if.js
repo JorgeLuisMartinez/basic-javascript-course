@@ -1,4 +1,4 @@
-//piedra papel o tijera con if
+//piedra papel o tijera con if- reto
 var uno = "piedra";
 var dos = "papel";
 var tres = "tijera";
